@@ -39,3 +39,14 @@ h1 {
   box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
   transition: opacity 1s ease-in-out;
 }
+.botao-musica {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #ff66a3;
+  border: none;
+  border-radius: 10px;
+  font-size: 1.1em;
+  color: white;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
